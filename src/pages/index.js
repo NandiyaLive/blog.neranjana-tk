@@ -26,10 +26,7 @@ export default function Home({ posts }) {
           <div className="intro-text">
             <p className="title">Neranjana's Blog 📝</p>
             <p className="subtitle">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio
-              provident reprehenderit distinctio velit mollitia labore facere,
-              inventore ex illum nesciunt nobis eum. Amet, excepturi voluptatem.
-              {/* Hi Dude, Welcome to Neranjana's Blog! Here I occasionally write
+              Hi Dude, Welcome to Neranjana's Blog! Here I occasionally write
               about tech, movies, my weird thought of mine and some other random
               stuff. Most of the content are written in my native language,
               සිංහල (Sinhala). If you wanna know more about me, I have a{" "}
@@ -40,7 +37,7 @@ export default function Home({ posts }) {
               >
                 website thingy{" "}
               </a>
-              too. */}
+              too.
             </p>
           </div>
         </section>
