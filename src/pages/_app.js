@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }) {
           rel="stylesheet"
         />
     
-        <link rel="icon" href="book.svg" type="image/svg+xml">
+        <link rel="icon" href="book.svg" type="image/svg+xml" />
       </head>
       <Component {...pageProps} />
     </>
