@@ -45,7 +45,7 @@ export default function Post({
 
         <footer className="post-footer">
             <div>
-              <p>Thanks For Reading</p>
+              <p>Thanks For Reading!</p>
               <p>
                 Written with ❤️ By{" "}
                 <a

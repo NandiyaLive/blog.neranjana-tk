@@ -5,6 +5,7 @@ import matter from "gray-matter";
 import Head from "next/head";
 
 function Posts({ posts }) {
+
   return (
     <>
       <Head>
@@ -14,7 +15,7 @@ function Posts({ posts }) {
         <section className="post-container">
           <div className="go-back">
             <p>
-              <Link href={"/"}>⮜ Back to Home</Link>
+              <Link href={"/"}>Back to Home</Link>
             </p>
           </div>
           <div className="post-container-top">

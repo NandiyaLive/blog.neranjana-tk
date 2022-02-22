@@ -15,7 +15,7 @@ export default function Home({ posts }) {
         <section className="intro">
           <div className="intro-bg">
             <Image
-              src={"/pexels.jpg"}
+              src={"/intro-bg.webp"}
               objectFit="cover"
               layout="fill"
               priority
@@ -57,23 +57,10 @@ export default function Home({ posts }) {
             ))}
           </ul>
           <p>
-            <Link href={"/posts"}>See All ➤</Link>
+            <Link href={"/posts"}>See All</Link>
           </p>
         </section>
       </main>
-
-      <footer className="intro-footer">
-        <p>
-          with ❤️ By{" "}
-          <a
-            href="https://neranjana.tk"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Neranjana.
-          </a>
-        </p>
-      </footer>
     </>
   );
 }
