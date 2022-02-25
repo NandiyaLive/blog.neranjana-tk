@@ -27,7 +27,7 @@ export default function Home({ posts }) {
             <p className="title">Neranjana's Blog 📝</p>
             <p className="subtitle">
               Hi Dude, Welcome to Neranjana's Blog! Here I occasionally write
-              about tech, movies, my weird thought of mine and some other random
+              about tech, movies, weird thought of mine and some other random
               stuff. Most of the content are written in my native language,
               සිංහල (Sinhala). If you wanna know more about me, I have a{" "}
               <a
