@@ -70,6 +70,15 @@ export default function Post({
           <div className="post-body">
             <div dangerouslySetInnerHTML={{ __html: marked(content) }}></div>
           </div>
+          <p>
+            <a
+              href={`https://github.com/NandiyaLive/blog.neranjana-tk/blob/main/src/posts/${slug}.md`}
+              target="_blank"
+              rel="noreferrer"
+            >
+              ✏️ Edit On Github
+            </a>
+          </p>
         </section>
 
         <footer className="post-footer">
