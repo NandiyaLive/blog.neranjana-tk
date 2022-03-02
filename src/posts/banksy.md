@@ -1,5 +1,5 @@
 ---
-title: Banksy
+title: බැන්ක්සි
 image: /images/banksy.jpg
 author: Neranjana Prasad
 date: "2019-07-12"

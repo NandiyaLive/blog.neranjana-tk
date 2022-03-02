@@ -9,7 +9,33 @@ export default function Home({ posts }) {
   return (
     <>
       <Head>
+        {/* Primary Meta Tags */}
         <title>Neranjana's Blog 📝</title>
+        <meta name="title" content={`Neranjana's Blog 📝`} />
+        <meta
+          name="description"
+          content="Neranjana Prasad's (Nandiya's) personal blog. Writes about tech, thoughts, personal opinions and some random stuff."
+        />
+
+        {/* Open Graph / Facebook */}
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content={`https://blog.neranjana.tk/`} />
+        <meta property="og:title" content={`Neranjana's Blog 📝`} />
+        <meta
+          property="og:description"
+          content="Neranjana Prasad's (Nandiya's) personal blog. Writes about tech, thoughts, personal opinions and some random stuff."
+        />
+        <meta property="og:image" content={`/intro-bg.webp`} />
+
+        {/* Twitter */}
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content={`https://blog.neranjana.tk/`} />
+        <meta property="twitter:title" content={`Neranjana's Blog 📝`} />
+        <meta
+          property="twitter:description"
+          content="Neranjana Prasad's (Nandiya's) personal blog. Writes about tech, thoughts, personal opinions and some random stuff."
+        />
+        <meta property="twitter:image" content={`/intro-bg.webp`} />
       </Head>
       <main className="container">
         <section className="intro">
@@ -88,13 +114,13 @@ export async function getStaticProps() {
 
     return {
       slug,
-      frontmatter,
+      frontmatter
     };
   });
 
   return {
     props: {
-      posts: posts.sort(sortByDate),
-    },
+      posts: posts.sort(sortByDate)
+    }
   };
 }
