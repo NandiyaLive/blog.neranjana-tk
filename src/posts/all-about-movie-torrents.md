@@ -1,5 +1,5 @@
 ---
-title: ෆිල්ම් ටොරන්ට්ස් ගැන දැනගනිමු.
+title: මූවී ටොරන්ට්ස් ගැන දැනගනිමු.
 image: "/images/movie-torrents.webp"
 date: 03/01/2022
 ---
