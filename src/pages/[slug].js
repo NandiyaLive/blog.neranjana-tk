@@ -30,7 +30,7 @@ export default function Post({
           property="og:description"
           content="Neranjana Prasad's (Nandiya's) personal blog. Writes about tech, thoughts, personal opinions and some random stuff."
         />
-        <meta property="og:image" content={`${image}`} />
+        <meta property="og:image" content={image} />
 
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
@@ -46,7 +46,7 @@ export default function Post({
           property="twitter:description"
           content="Neranjana Prasad's (Nandiya's) personal blog. Writes about tech, thoughts, personal opinions and some random stuff."
         />
-        <meta property="twitter:image" content={`${image}`} />
+        <meta property="twitter:image" content={image} />
       </Head>
       <main className="post container">
         <section className="post-intro">
