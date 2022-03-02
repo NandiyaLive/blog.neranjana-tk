@@ -132,26 +132,27 @@ Color එකක කොච්චර shade ප්‍රමාණයක් display 
 - **WEB-DL** \
   Streaming service එකකින් හෝ online distribution service එකකින් lossless විදියට ලබාගන්න file එකක් තමා WEB-DL කියලා කියන්නෙ. බොහෝ වෙලාවට කිසිම watermark එකක් නැති සුපැහැදිලි video සහ audio එකක් මේවාගෙන් ගන්න පුලුවන්. MKV file format එකෙන්, භාෂා කිහිපයක subtitles සහ audio සහිතව තමා බොහෝවිට මේවා නිකුත් වෙන්නෙ. Quality එක ඉතා ඉහළ තත්ත්වයක තියෙනවා.
 
-      **Common Streaming Services**
-      WEB-DL / WEBRip වලදී එයට මුලින් අකුරු කිහිපයක් මගින් එය ලබාගත් streaming service එක කුමක්ද යන්න සඳහන් කරනවා.
-      Eg : NF.WEBRip, AMZN.WEB-DL
-       - **—  International —**
-       - NF — Netflix
-       - AMZN — Amazon Prime
-       - HMAX — HBO Max
-       - ATVP — Apple TV+
-       - DCU — DC Universe
-       - DSNP — Disney+
-       - DSNY — Disney Networks
-       - HULU — Hulu Networks
-       - **— Indian —**
-       - HS - Disney+ Hotstar
-       - TK — Tentkotta
-       - SS — Simply South
-       - AHA — Aha Video
-       - MMAX — Manorama Max
-      - JIO / JC - Jio Cinema
-      - VOOT - Voot
+  **Common Streaming Services**
+  WEB-DL / WEBRip වලදී එයට මුලින් අකුරු කිහිපයක් මගින් එය ලබාගත් streaming service එක කුමක්ද යන්න සඳහන් කරනවා.
+  Eg : NF.WEBRip, AMZN.WEB-DL
+
+  - **— International —**
+  - NF — Netflix
+  - AMZN — Amazon Prime
+  - HMAX — HBO Max
+  - ATVP — Apple TV+
+  - DCU — DC Universe
+  - DSNP — Disney+
+  - DSNY — Disney Networks
+  - HULU — Hulu Networks
+  - **— Indian —**
+  - HS - Disney+ Hotstar
+  - TK — Tentkotta
+  - SS — Simply South
+  - AHA — Aha Video
+  - MMAX — Manorama Max
+  - JIO / JC - Jio Cinema
+  - VOOT - Voot
 
 * **HDRip / WEB-DLRip** \
   HDTV හෝ WEB-DL file එකක් යොදාගෙන transcode කරලා තියෙන ඒවා තමා HDRip කියන්නෙ. Quality එක WEB-DL වලට වඩා යම් තරමක් අඩු වුණත් file size එක සෑහෙන තරමකට අඩුකරගන්න පුලුවන් වෙලා තියෙනවා.
