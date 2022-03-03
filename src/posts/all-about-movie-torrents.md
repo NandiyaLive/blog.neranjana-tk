@@ -111,7 +111,7 @@ Color එකක කොච්චර shade ප්‍රමාණයක් display 
 - HDR : High Dynamic Range
 - HDR10
 - HDR10+
-- DoVi : Dolby Vision
+- DoVi : Dolby Vision \
   වගේ විවිධ variations මේකෙ තියෙනවා. හැබැයි මේ dynamic range එකට අදාළ display එකක් නැත්තං මේවගෙන් කිසිම වෙනසක දකින්න ලැබෙන්නේ නෑ. ඒ නිසා මේ ගැන ලොකුවට කතා කරන එකේ තේරුමක් නෑ.
 
 **Release Formats**
