@@ -123,8 +123,9 @@ Color එකක කොච්චර shade ප්‍රමාණයක් display 
 - **DVDRip** \
   Film එක release කරන DVD එකකින් ripping softwares භාවිත කරලා ලබාගන්න copy එකක් තමා DVDRip එකක් කියලා හඳුන්වන්නෙ. මේ ripping softwares වලින් source file එක encode වීමක් සහ compress වීමක් සිදුවෙනවා. බොහෝවිට AVI file format එකෙන් තමා නිකුත් වෙන්නෙ. Quality එක සාපේක්ෂව හොඳ මට්ටමක තියෙනවා.
 - **DVDR** \
-  Original DVD එකෙන් ලබාගන්න සම්පූර්ණ copy එකක් තමා DVDR කියන්නෙ. මේවා බොහෝවිට DVDRip වලට වඩා size එකෙන් වැඩී. සමහර අවස්ථාවල re-encode කිරීමක් සිදුකරනවා. - **DVD9** \
-   DVD-R standard එකේම ඊළඟ අවස්ථාව තමා DVD-R DL එහෙමත් නැත්තං DVD-R9 කියලා හඳුන්වන්නෙ. මේකෙ තියෙන වෙනස තමා recordable dye layers දෙකක් හරහා 8.5GB වෙනකන් ඩේටා ස්ටෝර් කරන්න පුලුවන් වෙන එක. ඒ කියන්නෙ සාමාන්‍යයෙන් 4.7GB DVD එකක දාන්න පුලුවන් ඩේටා ප්‍රමාණය වගේ දෙගුණයකට ආසන්නව මේකෙ ස්ටෝ කරලා තියාගන්න පුලුවන්.
+  Original DVD එකෙන් ලබාගන්න සම්පූර්ණ copy එකක් තමා DVDR කියන්නෙ. මේවා බොහෝවිට DVDRip වලට වඩා size එකෙන් වැඩී. සමහර අවස්ථාවල re-encode කිරීමක් සිදුකරනවා.
+  - **DVD9** \
+    DVD-R standard එකේම ඊළඟ අවස්ථාව තමා DVD-R DL එහෙමත් නැත්තං DVD-R9 කියලා හඳුන්වන්නෙ. මේකෙ තියෙන වෙනස තමා recordable dye layers දෙකක් හරහා 8.5GB වෙනකන් ඩේටා ස්ටෝර් කරන්න පුලුවන් වෙන එක. ඒ කියන්නෙ සාමාන්‍යයෙන් 4.7GB DVD එකක දාන්න පුලුවන් ඩේටා ප්‍රමාණය වගේ දෙගුණයකට ආසන්නව මේකෙ ස්ටෝ කරලා තියාගන්න පුලුවන්.
 
 - **TVRip / HDTV / HDTVRip** \
   TV එකකින් capture card එකක් භාවිත කරලා ලබාගන encode කරලා තියෙන videos TVRip කියලා හඳුන්වනවා. බොහෝවිට TV series තමයි මේ format එකෙන් එන්නෙ. Source එක HD නම් (HDMI හරහා capture කළ) HDTV කියලත්, SD නම් SDTV / PDTV (Pure Digital TV) කියලත් නම් කරනවා. HDTV වල quality එක සෑහෙන ඉහළ මට්ටමක තියෙනවා. 360p, 540p, 720p, 1080p වගේ resolutions වලින් මේවා නිකුත් වෙනවා. ඒ වුණත් network logo, banners, watermarks වගේ දේවල් තියෙන නිසා ඒක රසවින්දනයට බාධාවක්.
