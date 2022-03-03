@@ -72,6 +72,8 @@ Film එකේ නම, release year එකට පස්සෙ බොහෝවි
 - **Codec** \
   Encoding - Decoding වලට පාවිච්චි වෙන software හෝ hardware devices තමා Codec කියලා හඳුන්වන්නෙ. මේ වචනෙ හැදිලා තියෙන්නෙ **CO**ding - **DEC**oding කියන වචන දෙක එකතු වෙලා. ​මේවා encoder libraries කියලත් හඳුන්වනවා. x264, x265 තමා අපිට වැඩිපුරම දකින්න හම්බවෙන codecs දෙක.
 
+**Codec**
+
 - **x264 / AVC :** \
   2010 ඉඳලා VideoLAN එකෙන් (VLC Player එක හදන අය) develop කරන free & open-source software library එකක් තමා x264. මේක H.264/MPEG-4 AVC format එකට videos encode කරන්න ​තමා පාවිච්චි කරන්නෙ. මේක බොහෝම ජනප්‍රිය library එකක්. ඒවගේම ගොඩක් web browsers, TV, video players, mobile phones වලට මේක support කරනවා කිසිම අවුලක් නැතුව. දැනට ෆිල්ම්ස් වල සුලබව හොයාගන්න පුලුවන් copies ගොඩක් ඒවා මේ AVC codec එකෙන් තමා තියෙන්නෙ.
 
