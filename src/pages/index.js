@@ -37,6 +37,7 @@ export default function Home({ posts }) {
         />
         <meta property="twitter:image" content={`/intro-bg.webp`} />
       </Head>
+      
       <main className="container">
         <section className="intro">
           <div className="intro-bg">
@@ -114,13 +115,13 @@ export async function getStaticProps() {
 
     return {
       slug,
-      frontmatter
+      frontmatter,
     };
   });
 
   return {
     props: {
-      posts: posts.sort(sortByDate)
-    }
+      posts: posts.sort(sortByDate),
+    },
   };
 }

@@ -9,7 +9,7 @@ import Link from "next/link";
 export default function Post({
   frontmatter: { title, date, image },
   slug,
-  content
+  content,
 }) {
   return (
     <>
@@ -76,7 +76,7 @@ export default function Post({
               target="_blank"
               rel="noreferrer"
             >
-              ✏️ Edit On Github
+            <b>Edit On Github ↗</b>
             </a>
           </p>
         </section>
@@ -106,13 +106,13 @@ export async function getStaticPaths() {
 
   const paths = files.map((filename) => ({
     params: {
-      slug: filename.replace(".md", "")
-    }
+      slug: filename.replace(".md", ""),
+    },
   }));
 
   return {
     paths,
-    fallback: false
+    fallback: false,
   };
 }
 
@@ -128,7 +128,7 @@ export async function getStaticProps({ params: { slug } }) {
     props: {
       frontmatter,
       slug,
-      content
-    }
+      content,
+    },
   };
 }

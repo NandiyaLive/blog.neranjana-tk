@@ -1,5 +1,5 @@
 ---
-title: මූවී ටොරන්ට්ස් ගැන දැනගනිමු.
+title: මූවී ටොරන්ට්ස් ගැන දැනගනිමු
 image: "/images/movie-torrents.webp"
 date: 03/01/2022
 ---
@@ -29,6 +29,7 @@ date: 03/01/2022
 
 - **PROPER** \
   මුලින්ම නිකුත් වුණ ටොරන්ට් එකේ තියෙන යම් වැරැද්දක් නිවැරදි කරලා හෝ ඊට වඩා හොඳ torrent එකක් පසුව වෙනත් කෙනෙකු විසින් නිකුත් කරනවා නම් PROPER කියලා යොදනවා. PROPER හරහා එය පැරණි torrent එකට වඩා හොඳ බව අදහස් වුණත් එය release format එක අනුව වෙනස් වෙනවා. උදාහරණයකට film එකක මුල්ම CAMRip එකට වඩා PROPER CAMRip එක යම්තාක් දුරකට හොඳ වුණත් original release එකත් එක්ක ඒක සංසන්දනය කරන්න බැහැ. PROPER copy එකේ වෙනස් වෙලා තියෙන්නෙ මොනවාද කියලා release information සඳහන් කරන NFO file එකෙහි අනිවාර්යයෙන්ම සඳහන් කරන්න ඕනෙ.
+
 - **REPACK** \
   PROPER විදියටම යම් වැරැද්දක් නිවැරදි කරලා මුල් torrent එක නිකුත්කල අය විසින්ම පසුව නැවත නිකුත් කරන torrent එකේදී මේ REPACK යන්න සඳහන් කරනවා.
 - **iNTERNAL** \
@@ -54,6 +55,7 @@ Film එකේ නම, release year එකට පස්සෙ බොහෝවි
 
 - **2160p :** \
   2160p කියන එක අහලා නැති වුණත් 4K කියන එක අහලා නැතිවෙන්න බෑ. 4K, Ultra HD, UHD කියලා කියන්නෙ මේ 2160pම තමා. මේකට 2160px උසක්, 3840px දිගක් තියෙනවා. දැනට torrents එකක් රිලීස් වෙන උපරිම resolution එක තමා 2160p. Quality එක ගැන කතා කරන්න දෙයක් නෑ. Film theatres වල පවා මේ 4K resolution එක යොදාගන්නවා.
+
 - **1080p :** \
   1080p කියන එක Full HD එහෙම නැත්තං FHD කියලා හඳුන්වනවා. මේක 1080px උසක්, 1920px දිගක් තියෙනවා. 720pට වඩා සෑහෙන details මේකෙ බලාගන්න පුලුවන්. size එකත් දෙගුණයකට කිට්ටු වෙනවා.
 - **720p :** \
@@ -67,6 +69,7 @@ Film එකේ නම, release year එකට පස්සෙ බොහෝවි
 
 - **Encoding** \
    සරළව කියනවනම් raw video file එකක් විවිධ devices සහ platforms වලට අවශ්‍ය විදියට format එක වෙනස් කරලා compress කරලා data විදියට (0,1 විදියට) හදාගන්න ක්‍රියාවලිය තමා encoding එහෙම නැත්තං coding කියලා කියන්නෙ. Encoding වල ප්‍රධාන අරමුණ තමා අඩු ඉඩක් ගන්න විදියට video එක compress කරගන්න එක. මේවට පාවිච්චි වෙන tools වලට encoders කියලා කියනවා.
+
 - **Decoding** \
    වචනාර්ථයෙන්ම Decoding කියන්නෙ encoding කියන එකේ අනිත් පැත්ත තමා. මේකෙදි වෙන්නෙ data විදියට තියෙන ෆයිල් එකක් ආයෙමත් වීඩියෝ එකක් විදියට decompress වෙන එක. ඒ වගේම මේකට decoders පාවිච්චි වෙනවා.
 
@@ -78,15 +81,22 @@ Film එකේ නම, release year එකට පස්සෙ බොහෝවි
 
 - **x265 / HEVC:** \
   2013 දි, H.265/MPEG-H HEVC (High Efficiency Video Coding) format එකට encode කරන්න MulticoreWare Inc. එක හඳුන්වලා දීලා තියෙන library එකක් තමා x265 කියන්නෙ. මේකෙ තියෙන වාසිය තමා bitrate එක වෙනස් නොකරගෙන x264 වලට වඩා 50%කට ආසන්නව bandwidth එක අඩු කරගන්න පුලුවන් වෙන එක. මේකෙ color accuracy එකත් x264 වලට වඩා වැඩියි. සෑහෙන තරම් quality details තියෙන video output එකක් මේකෙන් ලබාගන්න පුලුවන්. ඒ වගේම තමා මේකෙ තියෙන ප්‍රධානම අවාසි තමා supported devices ප්‍රමාණය අඩු එක (royalty ප්‍රශ්න නිසා) සහ මේ format එකේ video එකක් decode කරන්න සෑහෙන processing power එකක් වුවමනා වෙන එක.
+
 - **VP9:** \
   HEVC වලට තරඟයක් දෙන්න Google ලා 2013 දී හඳුන්වලා දීලා තියෙන royalty-free, open source codec එකක් තමා VP9 කියන්නෙ. ප්‍රධානවම YouTube එක තමා මේ codec එක පාවිච්චි කරන්නෙ. ඊට අමතරව පොඩි පොඩි streaming services මේක පාවිච්චි කරනවා HEVC වල තියෙන ප්‍රශ්න නිසා. මේක VP8 වල ඊළඟ පරම්පරාව විදියට හඳුන්වා දුන්නත් Google එකෙන් කියලා තියෙනවා මේක තව ඉදිරියට develope කරන්න එයාලාගෙ අදහසක් නෑ කියලා. ඒ වෙනුවට AV1 වලට මාරු වීම සහ ඒකෙ development වලට උදව් දීම තමා දැන් කරන්නෙ.
 
-  ![VP9](/images/vp9.webp)
+  <figure>
+    <img src="/images/vp9.webp" alt="VP9" />
+    <figcaption>Mr.Beast's $456,000 Squid Game In Real Life!</figcaption>
+  </figure>
 
 - **AV1:** \
   AV1 එහෙම නැත්තං AOMedia Video 1 කියන්නෙ the Alliance of Open Media Video විසින් අලුතෙන්ම 2018දී හඳුන්වලා දුන්න open, royalty-free video coding format එකක්. Alliance for Open Media එකේ ඉන්න සාමාජිකයෝ තමා Amazon, Apple, ARM, Cisco, Facebook, Google, Huawei, Intel, Microsoft, Mozilla, Netflix, Nvidia, Samsung Electronics, Tencent. ඒ කියන්නෙ ලෝකෙ තියෙන ලොකුම tech companies වලින් මේ AV1 codec එකේ develop කරන්නෙ. මේක හඳුන්වාදෙන්න ප්‍රධානම හේතුව තමා ඉන්ටර්නෙට් එක හරහා video transmissions පහසු කිරීම. මේ AV1 codec එක HEVC සහ Google පාවිච්චි කරන VP9 වලට තරඟයක් දෙන්න තමා design කරලා තියෙන්නෙ. මේක HEVC වලට වඩා 30%ක් සහ H264 වලට වඩා 50%ක් කාර්යක්ෂමව වැඩකරනවා කියලා පරීක්ෂණ වලින් හොයාගෙන තියෙනවා. දැනටමත් Netflix, YouTube වගේ streaming services වල අලුත් වීඩියෝස් මේ codec එකෙන් ලබාදෙනවා පටන් අරගෙනයි තියෙන්නෙ. ඒ කියන්නෙ දැනට මේ තියෙන තත්ත්වයත් එකක් AV1 අනාගතයේදි වැඩිපුරම පාවිච්චි වෙන codec එක වෙන්න ගොඩක් ඉඩ තියෙනවා.
 
-  ![AV1](/images/av1.webp)
+  <figure>
+    <img src="/images/av1.webp" alt="AV1" />
+    <figcaption>Kadalalle Video Song | Dear Comrade Video Songs - Telugu | Vijay Deverakonda,Rashmika | Bharat Kamma</figcaption>
+  </figure>
 
 **Color Depth (Bit Depth)**
 
@@ -96,6 +106,7 @@ Color එකක කොච්චර shade ප්‍රමාණයක් display 
 
 - **8bit :** \
   8bit වලදි pixel එකකට primary colors වල (RGB) shades 256ක් display කරන්න පුලුවන්. ඒ කියන්නෙ 8bit වල possible colors ප්‍රමාණය 256 x 256 x 256 = 16.7 million වගේ වෙනවා.
+
 - **10bit :** \
   10bit වලදි pixel එකකට මේ අගය 1024ක්. \
   1024 x 1024 x 1024 = 1.07 billion possible colors ප්‍රමාණයක් තියෙනවා.
@@ -171,6 +182,7 @@ Color එකක කොච්චර shade ප්‍රමාණයක් display 
 
 - **UNTOUCHED** \
   කිසියම් ආකාරයට ලබාගත් පිටපත කිසිදු encode කිිරීමක් නොකර source file එකට සර්වසම ආකාරයටම රිලීස් කිරීමේදී UNTOUCHED ලෙස සඳහන් කරනවා.
+  
 - **REMUX** \
   Blu-ray or HD DVD disk එකකින් වෙනත් ෆෝමැට් එකකට rip කරගත් හෝ කිසිදු වෙනසක් නොකර (codecs එලෙසම තබාගෙන) disc එකේ ඇති ආකාරයටම strip කරගත් ෆයිල් එකක් නම් එහිදී REMUX ලෙස යොදනවා. මේවා original disk එකේ ඇති ෆයිල්ස් වලට සර්වසම ඉතා විශාල ෆයිල්ස් වෙනවා.
 
