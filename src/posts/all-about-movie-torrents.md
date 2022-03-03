@@ -104,7 +104,7 @@ Color එකක කොච්චර shade ප්‍රමාණයක් display 
 
 මේ ටික කියෙව්වම හිතාගන්න පුලුවන් ඉතිං 12bit > 10bit > 8bit කියල. Bit depth එක ගැන සඳහනක් කරලා නැති සමාන්‍ය වීඩියෝ එකක් නම් බොහෝවිට එන්නෙ 8bit විදියට. මේ නිසා තමා dark scenes වලදි කොටු කොටු වගේ පේන්න ගන්නෙ. ඒකට හේතුව තමා 8bit වලදි ​display කරන්න පුලුවන් shades ප්‍රමාණය අඩු වීම. 10bit, 12bit වලදි කලින්ට වඩා smooth විදියට අපිට ඒ scenes බලාගන්න පුලුවන් වුනත් මේවගෙ හරිම experience එක ගන්න නම් ඒ bit depth එකට අදාළ display panel එකක් පාවිච්චි කරන්න ඕනෙ.
 
-**Dynamic Range**
+**Dynamic Range** \
 වීඩියෝ එකක light - dark tones range එක තමා සරළවම dynamic range එක කියන්නෙ.
 
 - SDR : Standard Dynamic Range
