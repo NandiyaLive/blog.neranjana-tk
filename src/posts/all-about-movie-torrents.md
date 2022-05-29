@@ -147,7 +147,7 @@ Color එකක කොච්චර shade ප්‍රමාණයක් display 
   WEB-DL / WEBRip වලදී එයට මුලින් අකුරු කිහිපයක් මගින් එය ලබාගත් streaming service එක කුමක්ද යන්න සඳහන් කරනවා.
   Eg : NF.WEBRip, AMZN.WEB-DL
   
-    **Common Streaming Services**\
+    **Common Streaming Services** \
   - **— International —**
   - NF — Netflix
   - AMZN — Amazon Prime
