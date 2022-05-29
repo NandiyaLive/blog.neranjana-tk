@@ -144,11 +144,10 @@ Color එකක කොච්චර shade ප්‍රමාණයක් display 
   DRM (Digital Rights Management) enable කරලා තියෙන නිසා download කරන්න බැරි streaming service එකකින් external capture card එකක් භාවිත කරලා capture කරගන්න files හදුන්වන්න WEB හෝ WEBCap යොදාගන්නවා. මේවා බොහො වෙලාවන්වල encode කර නිකුත් කරන නිසා WEB / WEBCap වෙනුවට WEBRip විදියට තමා හඳුන්වන්නෙ. HSL (HTTP Live Streaming) හරහා ලබාගත් files හැඳින්වීමටත් මේ WEBRip යන්න යොදාගන්නවා. Network speed එක සහ capture කරන device එකේ specifications මත quality එක වෙනස් වෙනවා. Quality සාමාන්‍ය මට්ටමේ ඉදලා ඉහළ මට්ටම වෙනකන් තියෙන්න පුලුවන්.
 - **WEB-DL** \
   Streaming service එකකින් හෝ online distribution service එකකින් lossless විදියට ලබාගන්න file එකක් තමා WEB-DL කියලා කියන්නෙ. බොහෝ වෙලාවට කිසිම watermark එකක් නැති සුපැහැදිලි video සහ audio එකක් මේවාගෙන් ගන්න පුලුවන්. MKV file format එකෙන්, භාෂා කිහිපයක subtitles සහ audio සහිතව තමා බොහෝවිට මේවා නිකුත් වෙන්නෙ. Quality එක ඉතා ඉහළ තත්ත්වයක තියෙනවා.
-
-  **Common Streaming Services**
   WEB-DL / WEBRip වලදී එයට මුලින් අකුරු කිහිපයක් මගින් එය ලබාගත් streaming service එක කුමක්ද යන්න සඳහන් කරනවා.
   Eg : NF.WEBRip, AMZN.WEB-DL
-
+  
+    **Common Streaming Services**\
   - **— International —**
   - NF — Netflix
   - AMZN — Amazon Prime
