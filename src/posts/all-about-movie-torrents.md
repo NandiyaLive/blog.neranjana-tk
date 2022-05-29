@@ -9,8 +9,8 @@ date: 03/01/2022
 
 හරි දැන් කෙලින්ම කතාවට බහිමුකො. මෙහෙමයි ගොඩක් වෙලාවට ෆිල්ම්/ ටීවි සීරීස් ටොරන්ට් එකක නම කියෙව්වම confused unga bunga වෙලා යනවා.හේතුව තමා එතන ෆිල්ම් එකක නම් ඒකෙ නම, release වුන අවුරුද්ද ටීවි සීරීස් එකක නම් නම, season එක, episode number එකට අමතරව තව සෑහෙන වචන, අකුරු, ඉලක්කම් ගොඩක් තියෙනවා. නිකමට වගේ පහළ තියෙන නම් ටික බලමු.
 
-- Dear Comrade 2019 2160p AMZN WEB DL HEVC DDP5 1-DDH
-- KGF Chapter 1-Kannada-5 1CH-1080p-10Bit-AV1-By-D CRUGER
+- Dear Comrade 2019 2160p AMZN WEB DL HEVC DDP5.1-DDH
+- KGF Chapter 1 Kannada 5.1CH 1080p 10Bit AV1 By DCRUGER
 - Home Alone 1990 REMASTERED 720p BluRay 999MB HQ x265 10bit-GalaxyRG
 - Avatar The Last Airbender S01E06 720p BluRay x264-Pahe in
 - The Witcher S02E03 What Is Lost 720p 10bit WEBRip 2CH x265 HEVC-PSA
