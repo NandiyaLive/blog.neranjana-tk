@@ -53,9 +53,9 @@ export default function Home({ posts }) {
           <div className="intro-text">
             <p className="title">Neranjana's Blog 📝</p>
             <p className="subtitle">
-              Hi Dude, Welcome to Neranjana's Blog! Here I occasionally write
+              Hi, Welcome to Neranjana's Blog! I occasionally write
               about tech, movies, weird thought of mine and some other random
-              stuff. Most of the content are written in my native language,
+              stuff here. Most of the content are written in my native language,
               සිංහල (Sinhala). If you wanna know more about me, I have a{" "}
               <a
                 href="https://neranjana.tk"
